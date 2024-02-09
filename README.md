@@ -1,0 +1,1 @@
+This project aims to determine the Air Quality Index (AQI) based on the presence of particulate matter. Air pollution, especially particulate matter, has significant impacts on human health and the environment. Monitoring and determining the AQI are crucial for assessing air quality and implementing measures to mitigate pollution.
